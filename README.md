@@ -4,11 +4,11 @@ Hey there! I'm Aaron, and I'm excited to share my journey of exploring efficienc
 
 ## About Me
 
-- 🌱 Currently exploring Rust, Go, and pushing the boundaries of Python.
-- 🔥 Passionate about creating efficient and impactful solutions.
-- 💡 Love learning new concepts and technologies to build innovative projects.
-- 🖧 Background in network administration brings a unique perspective to my work.
-- 🤝 Experienced in integrating platforms to create seamless experiences.
+- Currently exploring Rust and Python to create functional applications.
+- Passionate about creating efficient and impactful solutions.
+- Love learning new concepts and technologies to build innovative projects.
+- Background in network administration brings a unique perspective to my work.
+- Experienced in integrating platforms to create seamless experiences.
 
 ## My Interests
 
