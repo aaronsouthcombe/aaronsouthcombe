@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hey there! I'm Aaron, and I'm excited to share my journey of exploring efficiency, creating innovative projects, and diving into the depths of programming languages like Rust, Go, and Python. With a background in network administration and platform integration, I'm all about tackling new challenges and learning about how things work at the lowest level.
+Hey there! I'm Aaron, and I'm excited to share my journey of exploring efficiency, creating innovative projects, and diving into the depths of programming languages like Rust and Python. With a background in network administration and platform integration, I'm all about tackling new challenges and learning about how things work at the lowest level.
 
 ## About Me
 
