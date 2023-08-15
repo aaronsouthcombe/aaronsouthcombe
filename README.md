@@ -20,6 +20,10 @@ Rust has captivated me with its focus on memory safety, performance, and powerfu
 #### Python
 Using python I started my journey into application development and created platforms for monitoring PBX systems for possible hacks, web applications using Flask and jinja templates, FastAPI to create a SolarWinds search engine, and ssh scripts with paramiko to automate network node management.
 
+### Linux and Efficiency
+
+Efficiency extends beyond programming languages to the very systems we use. As an advocate for efficiency, I deeply appreciate the power of Linux and other efficient operating systems. Their clutter-free, simple architectures provide a solid foundation to achieve our goals effectively. Most of the code I publish is developed and deployed or implemented on GNU/Linux targets.
+
 ## Get in Touch
 
 I'm all about collaboration and learning together. If you share my interests in Rust, Python, efficiency, or network administration, I'd love to connect with you. Feel free to reach out via [LinkedIn](www.linkedin.com/in/aaron-southcombe-858629278) or [Twitter](https://twitter.com/southcombe)
