@@ -26,4 +26,4 @@ Efficiency extends beyond programming languages to the very systems we use. As a
 
 ## Get in Touch
 
-I'm all about collaboration and learning together. If you share my interests in Rust, Python, efficiency, or network administration, I'd love to connect with you. Feel free to reach out via [LinkedIn](www.linkedin.com/in/aaron-southcombe-858629278) or [Twitter](https://twitter.com/southcombe)
+I'm all about collaboration and learning together. If you share my interests in Rust, Python, efficiency, or network administration, I'd love to connect with you. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aaron-southcombe-858629278) or [Twitter](https://www.x.com/southcombe)
